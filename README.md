@@ -1,4 +1,7 @@
 # Building a custom keyboard
+## What should I call it?
+ergodox extended; ortholinear with standard layout; standard layout ergodox;  
+
 ## How I stumbled upon being able to build one.
 
 | URL(in learning order) | Description   |
